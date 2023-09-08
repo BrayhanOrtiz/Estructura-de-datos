@@ -1,0 +1,12 @@
+#### Maneras de colocar Strings (Las dow primeras  en una linea y las dos siguientes con salto de linea)
+print("Hola Mundo!") # Con comillas dobles
+print('Hola Mundo!') # Con comillas simples
+print("""Hola Mundo!""") # Con triple comillas dobles
+print('''Hola Mundo!''') # Con triple comillas simples
+
+## Para acceder a algun caracter del Strig
+
+examplecaracter="Hola mundo"
+
+print(examplecaracter[0])
+print(examplecaracter[-1])
